@@ -3,3 +3,4 @@ int num1=10;
 int num2=20;
 sysout(num1 + num2);
 sysout(num1-num2);
+sysout(num1*num2);
