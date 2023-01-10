@@ -1,7 +1,8 @@
 Welcome to calci!
 int num1=10;
 int num2=20;
-sysout(num1 + num2);
+int num3=30;
+sysout(num1 + num2+num3);
 sysout(num1-num2);
 sysout(num1*num2);
 sysout(num1/num2);
